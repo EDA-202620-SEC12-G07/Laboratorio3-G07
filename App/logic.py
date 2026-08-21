@@ -27,6 +27,8 @@
 import csv
 import os
 import time
+#TODO Importar la librería para el manejo de listas
+from DataStructures.List import array_list as lt
 
 # TODO Importar la librería para el manejo de listas
 
